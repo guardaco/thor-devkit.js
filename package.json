@@ -71,7 +71,6 @@
   "dependencies": {
     "@vechain/ethers": "^4.0.27-2",
     "bignumber.js": "^7.2.1",
-    "bip39": "^2.5.0",
     "blakejs": "^1.1.0",
     "fast-json-stable-stringify": "^2.0.0",
     "hdkey": "^1.0.0",
